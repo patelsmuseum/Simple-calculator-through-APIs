@@ -11,7 +11,7 @@ Created a set of APIs for the following mathematical arithmetic operations.
    
             For example:    https://6bmchy0x1i.execute-api.ap-southeast-2.amazonaws.com/dev/api/divide?num1=45&num2=9
   
-   In this example, `num1` is 45, and `num2` is 87. Replace these values with the numbers you want to divide.
+   In this example, `num1` is 45, and `num2` is 9. Replace these values with the numbers you want to divide.
 
 
   - ## [Multiply API](https://b7uuumaa54.execute-api.ap-southeast-2.amazonaws.com/dev/api/multiply?num1=45&num2=3)
