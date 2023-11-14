@@ -3,7 +3,7 @@
 # About
 Created a set of APIs for the following mathematical arithmetic operations.
 
-- ## [Divide API](https://6bmchy0x1i.execute-api.ap-southeast-2.amazonaws.com/dev/api/divide?num1=45&num2=87)
+- ## [Divide API](https://6bmchy0x1i.execute-api.ap-southeast-2.amazonaws.com/dev/api/divide?num1=45&num2=9)
   The API endpoint for the division operation is:
      https://6bmchy0x1i.execute-api.ap-southeast-2.amazonaws.com/dev/api/divide
   ### Usage
